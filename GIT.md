@@ -10,3 +10,6 @@
 6. git status -> Verifica arquivos/pastas enviados para o repositório local.
 7. git add . -> Envia todos os arquivos/pastas.
 8. git branch -M main -> Altera o nome da branch atual para main.
+9. git commit -m "A informação fica aqui" -> Realiza um novo commit no repositório local.
+10. git remote add origin endereco_do_repositorio_remoto -> Comando para realizar a sincronização dos repositórios local e remoto.
+11. git push -u origin main -> Envia o repositório local para o remoto.
