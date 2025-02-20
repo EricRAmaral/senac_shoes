@@ -20,5 +20,10 @@
 ``Alt + Shift + Seta`` => Duplica a linha.
 ``CTRL + '`` => Oculta o termimal
 
-# Aula 03
+# Aula 06
+## COMANDOS DE DESVIO
+1. continue -> continuar, se uma condição for favorável ela será desconsiderada.
+2. break -> quebra, quando utilizado irá finalizar o loop mais próximo.
 
+## FUNÇÕES
+1. É um bloco de código que é reutilizável, e serve para deixar o código mais organizado e eficiente. `Executam uma tarefa específica.`
