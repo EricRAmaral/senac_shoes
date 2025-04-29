@@ -38,4 +38,4 @@ professor1 = Professor("Carlos Leiria", 48, "654321", "Matemática", 50000)
 
 # exibindo
 print(aluno1.exibir_dados())
-print(professor1.exibir_dados()  )
+print(professor1.exibir_dados())
