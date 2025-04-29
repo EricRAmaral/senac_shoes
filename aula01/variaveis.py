@@ -12,5 +12,5 @@ print(f"""
       e a pizza é {TAMANHO_DA_PIZZA}
       seu valor é de {preco}      
 ============================================
- """)
+ """)asfasgaga
 
